@@ -1,0 +1,1 @@
+El uso de la consola es sencillo mientras se tenga un concepto basico del uso de git, se usa comando de ubicacion como PWD para ubicarme CD para abrir directorios y mkdir para crearlos y el touch para crear archivos aunque uno mismo debe darle su ."terminacion que define que archivo es"
