@@ -1,0 +1,1 @@
+Primero ubicamos la carpeta en la que queremos crear el repositorio mediante el comando de navegacion pwd o en su defecto crearla esto mediante el comando de creacion de carpeta mkdir, adentro de esto se usa el git init para iniciar el repositorio
