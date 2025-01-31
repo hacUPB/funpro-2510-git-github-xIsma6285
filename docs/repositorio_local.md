@@ -1,1 +1,16 @@
-Primero ubicamos la carpeta en la que queremos crear el repositorio mediante el comando de navegacion pwd o en su defecto crearla esto mediante el comando de creacion de carpeta mkdir y cd para abrirla mediante touch se crean archivos dentro del repositorio para, adentro de esto se usa el git init para iniciar el repositorio, 
+
+
+$$$$$$$\                                          $$\   $$\                         $$\                 $$\                                   $$\ 
+$$  __$$\                                         \__|  $$ |                        \__|                $$ |                                  $$ |
+$$ |  $$ | $$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$\ $$\ $$$$$$\    $$$$$$\   $$$$$$\  $$\  $$$$$$\        $$ |      $$$$$$\   $$$$$$$\ $$$$$$\  $$ |
+$$$$$$$  |$$  __$$\ $$  __$$\ $$  __$$\ $$  _____|$$ |\_$$  _|  $$  __$$\ $$  __$$\ $$ |$$  __$$\       $$ |     $$  __$$\ $$  _____|\____$$\ $$ |
+$$  __$$< $$$$$$$$ |$$ /  $$ |$$ /  $$ |\$$$$$$\  $$ |  $$ |    $$ /  $$ |$$ |  \__|$$ |$$ /  $$ |      $$ |     $$ /  $$ |$$ /      $$$$$$$ |$$ |
+$$ |  $$ |$$   ____|$$ |  $$ |$$ |  $$ | \____$$\ $$ |  $$ |$$\ $$ |  $$ |$$ |      $$ |$$ |  $$ |      $$ |     $$ |  $$ |$$ |     $$  __$$ |$$ |
+$$ |  $$ |\$$$$$$$\ $$$$$$$  |\$$$$$$  |$$$$$$$  |$$ |  \$$$$  |\$$$$$$  |$$ |      $$ |\$$$$$$  |      $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$ |
+\__|  \__| \_______|$$  ____/  \______/ \_______/ \__|   \____/  \______/ \__|      \__| \______/       \________|\______/  \_______|\_______|\__|
+                    $$ |                                                                                                                          
+                    $$ |                                                                                                                          
+                    \__|                                                                                                    
+
+
+Un repositorio local den Git es un espacio donde se almacenan y gestionan los cambios de un proyecto antes de ser compartidos en un servidor remoto. Su creacion implica inicializar Git en un directorio para que posea la habilidad de detectar cambios y versiones.
