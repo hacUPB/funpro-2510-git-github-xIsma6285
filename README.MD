@@ -10,19 +10,31 @@ $$ |      $$ |      \$$$$$$  |\$$$$$$$ |\$$$$$$$\ \$$$$$$$\   \$$$$  |\$$$$$$  |
                               \$$$$$$  |                                        
                                \______/                
 
-Aquí tienes un resumen como si ya se hubiera completado la actividad:  
+Clonar este repositorio:
+$git clone https://github.com/hacUPB/funpro-2510-git-github-xIsma6285
 
----
+Ingresar al repositorio: 
+cd repositorio
 
-## **Resumen del Proyecto**  
+Tabla de contenido: 
+Como crear repositorios tanto locales como en la nube: docs/repositorio_local.md y 
+docs/repositorio_remoto.md 
+
+Uso de la consola git: docs/uso_consola.md
+
+Programa en C: src/programa.c
+
+Imagenes: /images
+
+Resumen del Proyecto
 
 Se llevó a cabo la creación y estructuración de un proyecto de programación utilizando Git y GitHub, con énfasis en la organización y documentación.  
 
-### **Pasos Realizados:**  
+Pasos Realizados:  
 
-1. **Estructura del Proyecto**  
-   - Se clonó el repositorio de evaluación desde GitHub.  
-   - Se creó la carpeta raíz `mi_proyecto` con las subcarpetas `src`, `docs` e `images`.  
+Estructura del Proyecto 
+Se clonó el repositorio de evaluación desde GitHub.  
+Se creó la carpeta raíz "mi_proyecto" con las subcarpetas "src", "docs" e "Images".  
 
 Código Fuente  
 Se agregó un script en C dentro de src/, el cual solicita dos arreglos de números, los suma y calcula el promedio del resultado.  
