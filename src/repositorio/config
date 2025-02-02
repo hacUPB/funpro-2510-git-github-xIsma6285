@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	name = Ismael
+	mail = ismael.aristizabal@upb.edu.co
+[remote "origin"]
+	url = https://github.com/hacUPB/funpro-2510-git-github-xIsma6285
+	fetch = +refs/heads/*:refs/remotes/origin/*
